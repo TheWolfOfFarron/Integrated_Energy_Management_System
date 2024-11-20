@@ -1,0 +1,25 @@
+version: '3.8'
+services:
+
+  device-app:
+    image: devicemiqro  # Replace with the actual image for your Spring Boot application
+    ports:
+      - "8081:8081"
+    environment:
+      DB_IP: postgres  # Use the service name as the DB_IP
+      DB_PORT: 5432
+      DB_USER: postgres
+      DB_PASSWORD: root
+      DB_DBNAME: DeviceDB
+    depends_on:
+      - postgres
+
+    # PostgreSQL Database Service
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: DeviceDB
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: root
+    ports:
+      - "5431:5432"
