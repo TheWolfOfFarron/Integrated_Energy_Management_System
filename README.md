@@ -1,21 +1,3 @@
-# Contents {#contents .TOC-Heading}
-
-[Deployment Diagram: [2](#_Toc149836372)](#_Toc149836372)
-
-[1Conceptual Architecture
-[2](#conceptual-architecture)](#conceptual-architecture)
-
-[2.Introduction [2](#introduction)](#introduction)
-
-[3.Components [2](#components)](#components)
-
-[4. User Roles [3](#user-roles)](#user-roles)
-
-[5. Data Flow [3](#data-flow)](#data-flow)
-
-[6.Security [4](#security)](#security)
-
-[7. Conclusion [4](#conclusion)](#conclusion)
 
 # 1Conceptual Architecture
 
