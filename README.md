@@ -1,11 +1,10 @@
 
 # 1Conceptual Architecture
-![image](https://github.com/user-attachments/assets/bb622ea4-2075-429a-abb4-0bb7b25a6c47)
 
 In this UML deployment diagram:
+![image](https://github.com/user-attachments/assets/bb622ea4-2075-429a-abb4-0bb7b25a6c47)
 
-![A diagram of a software company Description automatically
-generated](media/image1.png){width="6.5in" height="4.461111111111111in"}
+
 
 User: Represents users interacting with the system through a web
 browser.
@@ -232,7 +231,6 @@ information.
 \- User data and credentials are encrypted and stored securely in the
 databases.
 
-# 7. Database
 
 # 8. Conclusion
 
