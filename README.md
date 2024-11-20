@@ -1,5 +1,6 @@
 
 # 1Conceptual Architecture
+![image](https://github.com/user-attachments/assets/bb622ea4-2075-429a-abb4-0bb7b25a6c47)
 
 In this UML deployment diagram:
 
